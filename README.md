@@ -1,1 +1,5 @@
 # Resolvingconflict
+
+red
+blue
+green
